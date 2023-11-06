@@ -1,4 +1,4 @@
-# Clash Installation Package Backup Repository
+# Clash Backup 
 
 This repository is dedicated to backing up all historical installation packages of Clash, a powerful proxy client that supports a wide range of platforms.
 
@@ -18,10 +18,6 @@ The repository contains the following installation packages for different operat
 ## Installation
 
 To use these packages, select the appropriate version for your operating system, download it, and follow the official documentation for installation instructions.
-
-## Usage
-
-After downloading the desired package, refer to the official Clash documentation to configure and utilize the application.
 
 
 ## License
